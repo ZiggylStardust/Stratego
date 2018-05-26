@@ -1,6 +1,4 @@
-package de.hhn.stratego;
-
-import de.hhn.stratego.Spielstuecke.Bombe;
+package stratego;
 
 public class Armee {
 

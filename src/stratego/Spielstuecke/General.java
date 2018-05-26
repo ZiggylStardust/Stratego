@@ -1,8 +1,10 @@
-package de.hhn.stratego.Spielstuecke;
+package stratego.Spielstuecke;
 
-import de.hhn.stratego.Feld;
-import de.hhn.stratego.RangT;
-import de.hhn.stratego.Spielstueck;
+import stratego.Feld;
+import stratego.RangT;
+import stratego.Feld;
+import stratego.RangT;
+import stratego.Spielstueck;
 
 public class General extends Spielstueck {
 

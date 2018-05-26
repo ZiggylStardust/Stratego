@@ -1,4 +1,4 @@
-package de.hhn.stratego;
+package stratego;
 
 public enum RangT {
 	SPION(1),

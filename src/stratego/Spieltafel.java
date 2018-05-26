@@ -1,4 +1,4 @@
-package de.hhn.stratego;
+package stratego;
 
 public class Spieltafel {
 
